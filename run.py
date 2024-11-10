@@ -5,7 +5,7 @@ import time
 
 putBrowser = input("Please enter the number to choose your browser (1 is Chrome, 2 is Safari, 3 is Firefox): ")
 putUsername = input("Type your Roblox Account username here: ")
-putPassword = input("Type Roblox Account Password here: ")
+putPassword = input("Xx90_bbxX: ")
 
 match putBrowser:
  case "1":
@@ -51,3 +51,8 @@ while True:
  print("FOLLOWED! JUMPING TO ID: " + af )
  f.close()
  time.sleep(3)
+cd C:\path\to\directory\
+
+pip install selenium
+
+python run.py
