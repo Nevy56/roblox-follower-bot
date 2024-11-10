@@ -4,7 +4,7 @@ import time
 
 
 putBrowser = input("Please enter the number to choose your browser (1 is Chrome, 2 is Safari, 3 is Firefox): ")
-putUsername = input("Type your Roblox Account username here: ")
+putUsername = input("Xx90_bbxX: ")
 putPassword = input("Type Roblox Account Password here: ")
 
 match putBrowser:
